@@ -1,0 +1,37 @@
+Big Data Analysis with PySpark
+
+📌 Project Overview
+
+This project demonstrates how to perform big data analysis using PySpark. It includes data loading, cleaning, transformation, and aggregation.
+
+⚙️ Technologies Used
+
+- Python
+- PySpark
+
+📂 Project Structure
+
+- "main.py" → Main script
+- "requirements.txt" → Dependencies
+- "README.md" → Project documentation
+
+▶️ How to Run
+
+1. Install dependencies:
+
+pip install -r requirements.txt
+
+2. Run the script:
+
+python main.py
+
+📊 Features
+
+- Data preprocessing
+- Column transformations
+- Aggregations using groupBy
+- Output storage
+
+👨‍💻 Author
+
+Your Name
